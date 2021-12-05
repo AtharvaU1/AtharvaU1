@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AtharvaU1
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- Hi, I’m @AtharvaU1 
+- I’m interested in programming.
+- I have worked with technologies like C, C++, HTML, CSS, Git and Github.
+- I’m currently learning Javascript.
 
 <!---
 AtharvaU1/AtharvaU1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

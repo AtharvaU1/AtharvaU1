@@ -1,6 +1,6 @@
 - Hi, I’m @AtharvaU1 
 - I’m interested in programming.
-- I have worked with technologies like C, C++, HTML, CSS, Git and Github.
+- I have experience with technologies like C, C++, HTML, CSS, Git and Github.
 - I’m currently learning Javascript.
 
 <!---
